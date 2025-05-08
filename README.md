@@ -12,6 +12,7 @@ Graph-Based Keyword Extraction from Scientific Paper Abstracts using Word Embedd
 | `nlp_utils_algorithm.py`       | **Improved version** of `nlp_utils.py` with modified NLP utility functions. |
 | `data_utils.py`                | Functions for loading and preprocessing datasets. |
 | `cluster.ipynb`                | Jupyter notebook for clustering analysis of extracted keywords. |
+| `app.py`                       | The UI functions of our program you can upload documents and get the keyword. |
 | `lexicons.py`                  | Provides keyword lexicons or dictionaries used in some extraction strategies. |
 
 
